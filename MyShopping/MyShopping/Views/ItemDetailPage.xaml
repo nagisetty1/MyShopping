@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyShopping.Views.ItemDetailPage"
+             Title="{Binding Title}">
+
+    <StackLayout Spacing="20" Padding="15">
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Text:" FontSize="Small" />
+            <Label Text="{Binding Text}" FontSize="Medium"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Image Source="{Binding ImageSource}" HeightRequest="200" WidthRequest="200"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Description:" FontSize="Small" />
+            <Label Text="{Binding Description}" FontSize="Medium"/>
+        </StackLayout>
+    </StackLayout>
+    
+</ContentPage>
