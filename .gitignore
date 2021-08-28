@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs/slnx.sqlite
+/.vs/MyShopping/v16/.suo
+/MyShopping/.vs/MyShopping
+/MyShopping/MyShopping/bin/Debug/netstandard2.0
+/MyShopping/MyShopping/obj
+/MyShopping/MyShopping.Android/bin/Debug
+/MyShopping/MyShopping.Android/obj
+/MyShopping/MyShopping.iOS/bin/iPhone/Debug
+/MyShopping/MyShopping.iOS/obj
+/.vs
