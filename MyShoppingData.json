@@ -1,0 +1,38 @@
+[
+	{
+		"Id": "e2de1bbf-7fb2-4b9b-9766-80c36405964c",
+		"Text": "First item",
+		"ImageSource": "https://i.ytimg.com/vi/JTxPzXQ1Sso/maxresdefault.jpg",
+		"Description": "This is an item description."
+	},
+	{
+		"Id": "88d982a0-5585-4316-bea6-94a94f5879b1",
+		"Text": "Second item",
+		"ImageSource": "https://media-cdn.tripadvisor.com/media/photo-s/09/97/8c/27/castle-rock-trading-post.jpg",
+		"Description": "This is an item description."
+	},
+	{
+		"Id": "5f33789d-4096-47e2-898a-71a0fe9ee53c",
+		"Text": "Third item",
+		"ImageSource": "https://i.ytimg.com/vi/JTxPzXQ1Sso/maxresdefault.jpg",
+		"Description": "This is an item description."
+	},
+	{
+		"Id": "ae997d62-03b2-4ae5-814a-52c813aff19b",
+		"Text": "Fourth item",
+		"ImageSource": "https://media-cdn.tripadvisor.com/media/photo-s/09/97/8c/27/castle-rock-trading-post.jpg",
+		"Description": "This is an item description."
+	},
+	{
+		"Id": "e8fbc63d-5cc3-4777-9357-116f234f5669",
+		"Text": "Fifth item",
+		"ImageSource": "https://i.ytimg.com/vi/JTxPzXQ1Sso/maxresdefault.jpg",
+		"Description": "This is an item description."
+	},
+	{
+		"Id": "bcd69de8-cea2-4f32-8c06-9a9a586af136",
+		"Text": "Sixth item",
+		"ImageSource": "https://media-cdn.tripadvisor.com/media/photo-s/09/97/8c/27/castle-rock-trading-post.jpg",
+		"Description": "This is an item description."
+	}
+]
