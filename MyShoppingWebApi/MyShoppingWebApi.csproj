@@ -15,4 +15,8 @@
     <ProjectReference Include="..\MyShopping.Models\MyShopping.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="..\.dockerignore" />
+  </ItemGroup>
+
 </Project>
