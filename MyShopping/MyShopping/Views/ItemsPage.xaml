@@ -4,7 +4,7 @@
              x:Class="MyShopping.Views.ItemsPage"
              Title="{Binding Title}"
              xmlns:local="clr-namespace:MyShopping.ViewModels"  
-             xmlns:model="clr-namespace:MyShopping.Models"  
+             xmlns:model="clr-namespace:MyShopping.Models;assembly=MyShopping.Models" 
              x:Name="BrowseItemsPage">
 
     <ContentPage.ToolbarItems>
