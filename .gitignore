@@ -12,3 +12,7 @@
 /MyShopping/MyShopping.iOS/bin/iPhone/Debug
 /MyShopping/MyShopping.iOS/obj
 /.vs
+/MyShoppingWebApi/bin/Debug/net5.0
+/MyShoppingWebApi/obj/Debug/net5.0
+/MyShoppingWebApi/obj
+/MyShoppingWebApi/MyShoppingWebApi.csproj.user
