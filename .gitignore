@@ -18,3 +18,12 @@
 /MyShoppingWebApi/MyShoppingWebApi.csproj.user
 /MyShopping.Models/bin/Debug
 /MyShopping.Models/obj/Debug
+*.suo
+/MyShoppingAPis/src/MyShopping.API/bin/Debug/net5.0
+/MyShoppingAPis/src/MyShopping.API/obj
+/MyShoppingAPis/src/MyShopping.Common/bin/Debug/net5.0
+/MyShoppingAPis/src/MyShopping.Common/obj
+/MyShoppingAPis/src/MyShopping.Services.Activity/bin/Debug/net5.0
+/MyShoppingAPis/src/MyShopping.Services.Activity/obj
+/MyShoppingAPis/src/MyShopping.Services.Identity/bin/Debug/net5.0
+/MyShoppingAPis/src/MyShopping.Services.Identity/obj
